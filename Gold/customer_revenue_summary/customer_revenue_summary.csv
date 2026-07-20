@@ -1,0 +1,201 @@
+customer_id,customer_name,customer_type,annual_revenue
+CUST00001,Metro Wholesale,Dedicated,985117
+CUST00002,National Retail,Contract,4936566
+CUST00003,XYZ Industries,Contract,3102814
+CUST00004,American Corp,Contract,3948027
+CUST00005,American Distribution,Spot,3682564
+CUST00006,American Industries,Dedicated,973274
+CUST00007,Superior Distribution,Spot,1499297
+CUST00008,American Logistics,Contract,1613275
+CUST00009,XYZ Wholesale,Contract,4713444
+CUST00010,National Logistics,Dedicated,3468505
+CUST00011,First Group,Dedicated,4333669
+CUST00012,ABC Distribution,Dedicated,2931263
+CUST00013,Pacific Corp,Dedicated,1426880
+CUST00014,Elite Foods,Contract,4578681
+CUST00015,First Group,Spot,3816255
+CUST00016,United Industries,Dedicated,3055508
+CUST00017,Superior Supply Chain,Dedicated,2743711
+CUST00018,ABC Retail,Dedicated,4714416
+CUST00019,American Supply Chain,Contract,2823396
+CUST00020,First Corp,Contract,3218209
+CUST00021,Elite Industries,Dedicated,3558986
+CUST00022,Continental Supply Chain,Contract,3712034
+CUST00023,Continental Industries,Spot,2813302
+CUST00024,XYZ Distribution,Contract,2119327
+CUST00025,Pacific Retail,Contract,4824000
+CUST00026,ABC Supply Chain,Dedicated,4677044
+CUST00027,Superior Foods,Spot,1894559
+CUST00028,First Group,Contract,3246257
+CUST00029,Superior Distribution,Dedicated,4715736
+CUST00030,ABC Manufacturing,Spot,2231454
+CUST00031,American Manufacturing,Dedicated,3119970
+CUST00032,Continental Wholesale,Dedicated,3895035
+CUST00033,XYZ Foods,Contract,3853900
+CUST00034,Elite Retail,Contract,3431037
+CUST00035,United Distribution,Spot,101641
+CUST00036,National Retail,Spot,390773
+CUST00037,American Retail,Spot,2486409
+CUST00038,Continental Supply Chain,Dedicated,236754
+CUST00039,XYZ Wholesale,Contract,4442022
+CUST00040,ABC Corp,Contract,1233181
+CUST00041,XYZ Industries,Dedicated,2632031
+CUST00042,American Corp,Dedicated,155103
+CUST00043,First Manufacturing,Spot,2619383
+CUST00044,American Logistics,Contract,1961320
+CUST00045,First Logistics,Dedicated,1902064
+CUST00046,First Wholesale,Dedicated,2741611
+CUST00047,Elite Industries,Spot,282044
+CUST00048,First Manufacturing,Spot,2414896
+CUST00049,Continental Corp,Spot,4744463
+CUST00050,Global Manufacturing,Spot,4388856
+CUST00051,XYZ Wholesale,Contract,4766776
+CUST00052,Metro Corp,Contract,4887111
+CUST00053,Elite Supply Chain,Spot,4895027
+CUST00054,First Wholesale,Contract,1397841
+CUST00055,National Corp,Contract,890937
+CUST00056,Continental Retail,Dedicated,416555
+CUST00057,Premier Wholesale,Contract,3961861
+CUST00058,Superior Foods,Contract,3083456
+CUST00059,American Manufacturing,Spot,1409521
+CUST00060,Global Wholesale,Spot,1261052
+CUST00061,Elite Group,Spot,2322881
+CUST00062,Premier Group,Dedicated,3179314
+CUST00063,Superior Group,Dedicated,4983476
+CUST00064,Metro Retail,Spot,2195951
+CUST00065,United Retail,Dedicated,2054496
+CUST00066,Elite Foods,Dedicated,2249529
+CUST00067,Metro Supply Chain,Contract,2619119
+CUST00068,Metro Manufacturing,Contract,870956
+CUST00069,Continental Manufacturing,Contract,4885593
+CUST00070,First Group,Spot,3453750
+CUST00071,Continental Supply Chain,Spot,4873662
+CUST00072,Continental Distribution,Spot,1923996
+CUST00073,Pacific Supply Chain,Dedicated,747613
+CUST00074,First Industries,Contract,2823714
+CUST00075,Elite Corp,Contract,4147781
+CUST00076,Metro Wholesale,Spot,1550411
+CUST00077,Metro Group,Spot,4195959
+CUST00078,Premier Wholesale,Spot,4933788
+CUST00079,Pacific Logistics,Spot,899971
+CUST00080,First Distribution,Spot,2619881
+CUST00081,ABC Wholesale,Spot,413495
+CUST00082,Global Logistics,Spot,4934218
+CUST00083,Metro Logistics,Contract,3300640
+CUST00084,United Foods,Dedicated,758316
+CUST00085,Pacific Manufacturing,Dedicated,569113
+CUST00086,Premier Foods,Contract,2905063
+CUST00087,Global Logistics,Contract,3018650
+CUST00088,Continental Foods,Dedicated,3743209
+CUST00089,United Group,Spot,3594037
+CUST00090,ABC Supply Chain,Dedicated,1111167
+CUST00091,American Distribution,Contract,2001845
+CUST00092,Elite Group,Dedicated,195918
+CUST00093,United Group,Spot,3308533
+CUST00094,National Retail,Contract,554058
+CUST00095,First Foods,Contract,2656708
+CUST00096,Continental Logistics,Dedicated,4498846
+CUST00097,National Wholesale,Contract,445461
+CUST00098,National Supply Chain,Dedicated,2778621
+CUST00099,First Logistics,Dedicated,4629258
+CUST00100,ABC Foods,Contract,4838832
+CUST00101,United Corp,Contract,1354768
+CUST00102,Pacific Industries,Dedicated,2841662
+CUST00103,United Supply Chain,Contract,4314450
+CUST00104,Pacific Corp,Contract,1952180
+CUST00105,First Corp,Spot,1385113
+CUST00106,United Retail,Contract,523790
+CUST00107,Premier Industries,Dedicated,3395738
+CUST00108,Global Distribution,Dedicated,3838099
+CUST00109,Global Manufacturing,Contract,4925587
+CUST00110,Continental Group,Spot,4333976
+CUST00111,XYZ Wholesale,Contract,855670
+CUST00112,ABC Wholesale,Contract,1962989
+CUST00113,Premier Group,Spot,3723339
+CUST00114,Premier Manufacturing,Contract,2530876
+CUST00115,Global Corp,Dedicated,3407816
+CUST00116,Premier Logistics,Spot,1341618
+CUST00117,Superior Industries,Spot,1208882
+CUST00118,Continental Manufacturing,Dedicated,2919983
+CUST00119,ABC Manufacturing,Contract,792438
+CUST00120,Superior Corp,Contract,4091758
+CUST00121,ABC Corp,Spot,4893591
+CUST00122,Metro Foods,Dedicated,513651
+CUST00123,American Corp,Spot,4698235
+CUST00124,First Supply Chain,Contract,3448659
+CUST00125,XYZ Supply Chain,Contract,2302495
+CUST00126,First Retail,Dedicated,813694
+CUST00127,Global Group,Spot,3443087
+CUST00128,XYZ Group,Spot,4309597
+CUST00129,Global Wholesale,Contract,3744775
+CUST00130,First Group,Dedicated,1193666
+CUST00131,National Distribution,Contract,1231377
+CUST00132,Superior Retail,Dedicated,4134270
+CUST00133,United Supply Chain,Contract,4791716
+CUST00134,Superior Supply Chain,Contract,1761854
+CUST00135,Premier Retail,Dedicated,4192475
+CUST00136,Pacific Corp,Contract,3416174
+CUST00137,First Industries,Dedicated,4892669
+CUST00138,First Logistics,Spot,1745000
+CUST00139,XYZ Supply Chain,Dedicated,4807415
+CUST00140,American Retail,Dedicated,4497709
+CUST00141,Metro Corp,Contract,2165659
+CUST00142,Elite Retail,Contract,2132686
+CUST00143,ABC Supply Chain,Contract,700993
+CUST00144,National Distribution,Dedicated,2333526
+CUST00145,National Foods,Contract,3707652
+CUST00146,First Foods,Contract,2812973
+CUST00147,ABC Group,Spot,4931991
+CUST00148,Pacific Supply Chain,Spot,851574
+CUST00149,First Group,Dedicated,1043968
+CUST00150,American Industries,Dedicated,3569377
+CUST00151,ABC Foods,Spot,3652916
+CUST00152,Metro Retail,Dedicated,3164087
+CUST00153,Superior Group,Dedicated,3021818
+CUST00154,XYZ Distribution,Spot,1697943
+CUST00155,Global Group,Spot,2790548
+CUST00156,First Logistics,Dedicated,2990084
+CUST00157,Metro Distribution,Dedicated,303061
+CUST00158,United Retail,Contract,2657005
+CUST00159,Metro Wholesale,Dedicated,1519816
+CUST00160,XYZ Retail,Contract,3033633
+CUST00161,First Wholesale,Spot,3809527
+CUST00162,Metro Distribution,Spot,1323214
+CUST00163,Continental Manufacturing,Spot,3794875
+CUST00164,ABC Industries,Spot,476460
+CUST00165,Continental Supply Chain,Dedicated,2058652
+CUST00166,ABC Distribution,Dedicated,1775080
+CUST00167,XYZ Logistics,Contract,3235836
+CUST00168,Global Foods,Spot,1408549
+CUST00169,First Distribution,Dedicated,819863
+CUST00170,Elite Retail,Contract,1042642
+CUST00171,Premier Wholesale,Contract,557498
+CUST00172,National Industries,Contract,2138836
+CUST00173,Metro Wholesale,Spot,1338805
+CUST00174,National Supply Chain,Contract,2513277
+CUST00175,ABC Wholesale,Spot,215203
+CUST00176,Metro Distribution,Contract,2979568
+CUST00177,First Logistics,Contract,1033467
+CUST00178,Metro Corp,Contract,2659515
+CUST00179,XYZ Corp,Dedicated,3875390
+CUST00180,ABC Distribution,Spot,4052630
+CUST00181,Superior Group,Contract,290825
+CUST00182,XYZ Foods,Spot,2883983
+CUST00183,Pacific Foods,Spot,1853299
+CUST00184,Elite Distribution,Contract,4613116
+CUST00185,Premier Industries,Contract,1877338
+CUST00186,National Wholesale,Dedicated,1809609
+CUST00187,Metro Logistics,Contract,4683738
+CUST00188,American Manufacturing,Spot,4489472
+CUST00189,First Retail,Spot,2269780
+CUST00190,Global Wholesale,Dedicated,4703668
+CUST00191,Pacific Group,Contract,4151918
+CUST00192,Premier Manufacturing,Spot,1285708
+CUST00193,Premier Supply Chain,Spot,254254
+CUST00194,ABC Group,Spot,3259205
+CUST00195,First Manufacturing,Spot,4990599
+CUST00196,XYZ Logistics,Spot,4519111
+CUST00197,ABC Corp,Contract,464753
+CUST00198,Elite Wholesale,Dedicated,2242923
+CUST00199,First Group,Contract,1528744
+CUST00200,XYZ Foods,Dedicated,604239
