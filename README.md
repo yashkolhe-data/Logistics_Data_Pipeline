@@ -1,39 +1,52 @@
+
 # Logistics Data Pipeline
 
 ## Project Overview
 
-This project demonstrates a real-world End-to-End Logistics Data Engineering Pipeline using Python, SQL, Git, and Medallion Architecture (Bronze → Silver → Gold).
+This project demonstrates an end-to-end Data Engineering pipeline using the Medallion Architecture (Bronze, Silver, Gold).
+
+## Architecture
+
+Bronze Layer
+- Raw CSV data ingestion
+
+Silver Layer
+- Data cleaning
+- Missing value handling
+- Standardization
+- Data quality improvements
+
+Gold Layer
+- Driver Performance Summary
+- Customer Revenue Summary
+- Truck Summary
+- Route Summary
 
 ## Tech Stack
 
 - Python
 - Pandas
-- SQL
+- Jupyter Notebook
 - Git
 - GitHub
-- Azure (Upcoming)
-- PySpark (Upcoming)
 
-## Project Architecture
+## Project Structure
 
-Raw Data
-↓
-Bronze Layer
-↓
-Silver Layer
-↓
-Gold Layer
-↓
-Business Reports
+Logistics_Data_Pipeline/
+│
+├── Bronze/
+├── Silver/
+├── Gold/
+├── Notebooks/
+└── README.md
 
-## Current Status
+## Gold Outputs
 
-✅ Bronze Layer Completed
+- Driver Performance Summary
+- Customer Revenue Summary
+- Truck Summary
+- Route Summary
 
-## Next Steps
+## Author
 
-- Silver Layer Data Cleaning
-- SQL Integration
-- PySpark Transformation
-- Azure Data Factory
-- Azure Databricks
+Yash Kolhe
