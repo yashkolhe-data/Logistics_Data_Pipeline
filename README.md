@@ -22,6 +22,10 @@ Gold Layer
 - Truck Summary
 - Route Summary
 
+## Project Architecture
+
+![Architecture](images/architecture.png)
+
 ## Tech Stack
 
 - Python
