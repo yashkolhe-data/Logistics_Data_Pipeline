@@ -24,7 +24,7 @@ Gold Layer
 
 ## Project Architecture
 
-![Architecture](images/architecture.png)
+![Architecture](Images/architecture.png)
 
 ## Tech Stack
 
